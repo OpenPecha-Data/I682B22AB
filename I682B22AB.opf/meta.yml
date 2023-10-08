@@ -1,0 +1,79 @@
+id: I682B22AB
+ocr_import_info:
+  timestamp: '2023-10-07T14:08:05.346880+00:00'
+  batch_id: batch-76d4
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharmakyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-10-08 10:55:26.643191+00:00
+last_modified: 2023-10-08 10:55:26.643196+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W3CN12887
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW3CN12887
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: ལྷ་ལུང་པས་ཉར་ཚགས་མཛད་པའི་འབྲུག་པ་བཀའ་བརྒྱུད་ཀྱི་ཤིང་པར་ཕྱག་དཔེ་ཕྱོགས་བསྡུས།
+  languages:
+  - bo
+statistics:
+  ocr_word_mean_confidence_index: 0.9629365424279565
+  ocr_word_median_confidence_index: 0.9995281
+bases:
+  I3CN12928:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN12928
+      total_pages: 570
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I3CN12928.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99860062
+      ocr_word_mean_confidence_index: 0.9595149011567012
+  I3CN12929:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN12929
+      total_pages: 645
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I3CN12929.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9989074
+      ocr_word_mean_confidence_index: 0.9536187380126072
+  I3CN12931:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN12931
+      total_pages: 1078
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I3CN12931.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9994923
+      ocr_word_mean_confidence_index: 0.9615045679601182
+  I3CN12930:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN12930
+      total_pages: 891
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I3CN12930.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99993944
+      ocr_word_mean_confidence_index: 0.9753772701084511
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
